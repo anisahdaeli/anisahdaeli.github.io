@@ -1,0 +1,198 @@
+[
+  {
+    "id": "web-mrs",
+    "title": "Web-Based Medical Record System",
+    "type": "web",
+    "category": "Web Development",
+    "date": "2022",
+    "description": "Web-based application built using CodeIgniter 3 that supports the management of patient medical records with role-based access. The system provides two user roles, Administrator and Doctor, where administrators manage patient data, payments, reports, and user accounts, while doctors record patient examinations and create medication prescriptions.",
+    "images": [
+      "assets/img/portfolio/pf-1.1.jpg",
+      "assets/img/portfolio/pf-1.2.jpg",
+      "assets/img/portfolio/pf-1.3.jpg",
+      "assets/img/portfolio/pf-1.4.jpg",
+      "assets/img/portfolio/pf-1.5.jpg",
+      "assets/img/portfolio/pf-1.6.jpg",
+      "assets/img/portfolio/pf-1.7.jpg"
+    ],
+    "tools": ["Codeigniter", "HTML", "CSS", "PHP", "Bootstrap", "JavaScript", "XAMPP"],
+    "github": "https://github.com/anisahdaeli/Web-Based-Medical-Record-System"
+  },
+
+  {
+    "id": "web-koa",
+    "title": "Kofi Aekhula - WooCommerce",
+    "type": "web",
+    "category": "Web Development",
+    "date": "2022",
+    "description": "Kofi Aekhula is an e-commerce website built with WordPress and WooCommerce for selling coffee beans, brewing equipment, and coffee machines. This repository is used for the development and maintenance of the online store website.",
+    "images": [
+      "assets/img/portfolio/pf-2.1.jpg",
+      "assets/img/portfolio/pf-2.2.jpg",
+      "assets/img/portfolio/pf-2.3.jpg",
+      "assets/img/portfolio/pf-2.4.jpg",
+      "assets/img/portfolio/pf-2.5.jpg"
+    ],
+    "tools": ["WordPress", "WooCommerce", "XAMPP"],
+    "github": "https://github.com/anisahdaeli/Kofi-Aekhula-Woocommerce"
+  },
+
+  {
+    "id": "dashboard-excel",
+    "title": "Excel Dashboard",
+    "type": "dashboard",
+    "category": "Dashboard Creation",
+    "date": "2023",
+    "description": "This Excel dashboard provides a comprehensive visualization of retail and video game sales data. It features in-depth analysis of product categories, customer segmentation, profit trends, and global distribution. Integrated with key metrics like total sales, profit margins, and CSAT, it is designed to drive strategic decision-making.",
+    "images": [
+      "assets/img/portfolio/pf-3.1.jpg",
+      "assets/img/portfolio/pf-3.2.jpg",
+      "assets/img/portfolio/pf-3.3.jpg"
+    ],
+    "tools": ["Microsoft Excel", "Pivot Tables", "Charts", "Formulas"],
+    "github": "https://github.com/anisahdaeli/My-Dashboard-Creation/tree/main/Excel%20Dashboard"
+  },
+
+  {
+    "id": "dashboard-lookers",
+    "title": "Looker Studio Dashboard",
+    "type": "dashboard",
+    "category": "Dashboard Creation",
+    "date": "2023",
+    "description": "This dashboard collection visualizes crucial data ranging from marketing performance metrics to global and national COVID-19 statistics. It presents sales trends, category effectiveness, and real-time case distribution to support accurate, data-driven strategic analysis across the business and healthcare sectors.",
+    "images": [
+      "assets/img/portfolio/pf-4.1.jpg",
+      "assets/img/portfolio/pf-4.2.jpg",
+      "assets/img/portfolio/pf-4.3.jpg"
+    ],
+    "tools": ["Google Looker Studio"],
+    "github": "https://github.com/anisahdaeli/My-Dashboard-Creation/tree/main/Looker%20Studio%20Dashboard"
+  },
+
+  {
+    "id": "dashboard-tableau",
+    "title": "Tableau Dashboard",
+    "type": "dashboard",
+    "category": "Dashboard Creation",
+    "date": "2023",
+    "description": "This dashboard collection visualizes marketing performance metrics along with global and national COVID-19 statistics, COVID-19 in Indonesia, and Diabetes Cases. This project involves multi-sector data analysis using interactive data visualization and dynamic data processing techniques to deliver real-time trends and deep strategic insights for decision-making.",
+    "images": [
+      "assets/img/portfolio/pf-5.1.jpg",
+      "assets/img/portfolio/pf-5.2.jpg",
+      "assets/img/portfolio/pf-5.3.jpg",
+      "assets/img/portfolio/pf-5.4.jpg"
+    ],
+    "tools": ["Tableau"],
+    "github": "https://github.com/anisahdaeli/My-Dashboard-Creation/tree/main/Tableau%20Dashboard"
+  },
+
+  {
+    "id": "design-ac",
+    "title": "Aekhula Catch - UI/UX Design",
+    "type": "design",
+    "category": "Graphic Design & UI/UX",
+    "date": "2023",
+    "description": "Aekhula Catch is a mobile UI/UX design project for an online fish marketplace application. This project was designed using Figma and focuses on creating a user-centered, intuitive, and modern mobile application experience for buying and selling fresh seafood.",
+    "images": [
+      "assets/img/portfolio/pf-6.1.jpg",
+      "assets/img/portfolio/pf-6.2.jpg",
+      "assets/img/portfolio/pf-6.3.jpg",
+      "assets/img/portfolio/pf-6.4.jpg",
+      "assets/img/portfolio/pf-6.5.jpg",
+      "assets/img/portfolio/pf-6.6.jpg",
+      "assets/img/portfolio/pf-6.7.jpg",
+      "assets/img/portfolio/pf-6.8.jpg",
+      "assets/img/portfolio/pf-6.9.jpg"
+    ],
+    "tools": ["Figma", "Balsamiq", "Draw.io"],
+    "github": "https://github.com/anisahdaeli/Aekhula-Catch-UI-UX-Desain"
+  },
+
+  {
+    "id": "design-graphic",
+    "title": "Graphic Design Project",
+    "type": "design",
+    "category": "Graphic Design & UI/UX",
+    "date": "2024",
+    "description": "A collection of graphic design works such as mockups, banners, billboards, and product advertisements for digital and print media.",
+    "images": [
+      "assets/img/portfolio/pf-7.1.jpg",
+      "assets/img/portfolio/pf-7.2.jpg",
+      "assets/img/portfolio/pf-7.3.jpg",
+      "assets/img/portfolio/pf-7.4.jpg",
+      "assets/img/portfolio/pf-7.5.jpg",
+      "assets/img/portfolio/pf-7.6.jpg"
+    ],
+    "tools": ["Photoshop", "Photopea"],
+    "github": "https://github.com/anisahdaeli/My-Graphic-Design-Project"
+  },
+
+  {
+    "id": "ml-fhssd",
+    "title": "Forecasting Hospital Surgical Service Demand",
+    "type": "ml",
+    "category": "Machine Learning",
+    "date": "2023",
+    "description": "Developed predictive models to estimate surgical service volumes at Rumah Sakit Umum Haji Surabaya using GPR, RFR, SVM, and KNN. The models were evaluated using RMSE, MAE, and MSE.",
+    "images": [
+      "assets/img/portfolio/pf-8.1.jpg",
+      "assets/img/portfolio/pf-8.2.jpg",
+      "assets/img/portfolio/pf-8.3.jpg",
+      "assets/img/portfolio/pf-8.4.jpg"
+    ],
+    "tools": ["Jupyter Notebook", "Excel"],
+    "github": "https://github.com/anisahdaeli/Forecasting-Hospital-Surgical-Service-Demand"
+  },
+
+  {
+    "id": "ml-fpa",
+    "title": "Visitor Satisfaction Analysis - FPA 2024",
+    "type": "ml",
+    "category": "Data Analytics & Machine Learning",
+    "date": "2024",
+    "description": "Visitor Satisfaction Analysis for Festival Pesona Aekhula 2024 (Disparbudpora Nias Barat). This project involved data collection, cleaning, visualization, and descriptive analysis, assessing satisfaction across five indicators: event quality, culinary, cultural experience, facilities, and safety.",
+    "images": [
+      "assets/img/portfolio/pf-9.1.jpg",
+      "assets/img/portfolio/pf-9.2.jpg",
+      "assets/img/portfolio/pf-9.3.jpg",
+      "assets/img/portfolio/pf-9.4.jpg"
+    ],
+    "tools": ["Jupyter Notebook", "Excel"],
+    "github": "https://github.com/anisahdaeli/Visitor-Satisfaction-Analysis-FPA-2024"
+  },
+
+  {
+    "id": "ml-atp",
+    "title": "Alodokter - Mental Health Topic Modeling",
+    "type": "ml",
+    "category": "Machine Learning",
+    "date": "2024",
+    "description": "This project focuses on analyzing mental health discussions from the Alodokter platform using Natural Language Processing (NLP) techniques. It covers the complete data pipeline from web scraping and Indonesian text preprocessing to topic modeling using the Latent Dirichlet Allocation (LDA) algorithm.",
+    "images": [
+      "assets/img/portfolio/pf-10.1.jpg",
+      "assets/img/portfolio/pf-10.2.jpg",
+      "assets/img/portfolio/pf-10.3.jpg",
+      "assets/img/portfolio/pf-10.4.jpg",
+      "assets/img/portfolio/pf-10.5.jpg",
+      "assets/img/portfolio/pf-10.6.jpg"
+    ],
+    "tools": ["Jupyter Notebook", "Excel"],
+    "github": "https://github.com/anisahdaeli/Modeling-of-Mental-Health-Discussions-on-Alodokter/tree/main/Alodokter%20-%20Topic%20Modeling"
+  },
+
+  {
+    "id": "ml-atc",
+    "title": "Alodokter - Mental Health Text Classification",
+    "type": "ml",
+    "category": "Machine Learning",
+    "date": "2024",
+    "description": "Automatic classification of mental health discussions from the Alodokter forum into predefined categories using NLP and machine learning techniques. The classification task focuses on distinguishing discussions related to Depression, Anxiety, and Stress.",
+    "images": [
+      "assets/img/portfolio/pf-11.1.jpg",
+      "assets/img/portfolio/pf-11.2.jpg",
+      "assets/img/portfolio/pf-11.3.jpg"
+    ],
+    "tools": ["Jupyter Notebook", "Excel"],
+    "github": "https://github.com/anisahdaeli/Modeling-of-Mental-Health-Discussions-on-Alodokter/tree/main/Alodokter%20-%20Text%20Classification"
+  }
+]
